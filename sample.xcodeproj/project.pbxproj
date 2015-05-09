@@ -15,6 +15,7 @@
 		062B4E151AEB8CB400255D22 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 062B4E141AEB8CB400255D22 /* Images.xcassets */; };
 		062B4E181AEB8CB400255D22 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 062B4E161AEB8CB400255D22 /* LaunchScreen.xib */; };
 		062B4E241AEB8CB400255D22 /* sampleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 062B4E231AEB8CB400255D22 /* sampleTests.m */; };
+		0634CF531AF4D03200135F92 /* kokkai.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0634CF521AF4D03200135F92 /* kokkai.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,6 +44,7 @@
 		062B4E1D1AEB8CB400255D22 /* sampleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = sampleTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		062B4E221AEB8CB400255D22 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		062B4E231AEB8CB400255D22 /* sampleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = sampleTests.m; sourceTree = "<group>"; };
+		0634CF521AF4D03200135F92 /* kokkai.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kokkai.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +93,7 @@
 				062B4E0E1AEB8CB300255D22 /* DetailViewController.h */,
 				062B4E0F1AEB8CB300255D22 /* DetailViewController.m */,
 				062B4E111AEB8CB400255D22 /* Main.storyboard */,
+				0634CF521AF4D03200135F92 /* kokkai.jpg */,
 				062B4E141AEB8CB400255D22 /* Images.xcassets */,
 				062B4E161AEB8CB400255D22 /* LaunchScreen.xib */,
 				062B4E041AEB8CB300255D22 /* Supporting Files */,
@@ -207,6 +210,7 @@
 				062B4E131AEB8CB400255D22 /* Main.storyboard in Resources */,
 				062B4E181AEB8CB400255D22 /* LaunchScreen.xib in Resources */,
 				062B4E151AEB8CB400255D22 /* Images.xcassets in Resources */,
+				0634CF531AF4D03200135F92 /* kokkai.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -424,6 +428,7 @@
 				062B4E291AEB8CB400255D22 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		062B4E2A1AEB8CB400255D22 /* Build configuration list for PBXNativeTarget "sampleTests" */ = {
 			isa = XCConfigurationList;
@@ -432,6 +437,7 @@
 				062B4E2C1AEB8CB400255D22 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
