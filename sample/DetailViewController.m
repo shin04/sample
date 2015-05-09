@@ -43,6 +43,7 @@
     }
 }
 
+//ちょっとだけ変更
 //アプリが起動した時だけ呼び出される
 - (void)viewDidLoad {
     [super viewDidLoad];
